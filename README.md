@@ -4,7 +4,11 @@ This project tracks a persons shoulder and wrist locations and draws a dot on th
 
 ## The Algorithm
 
-This algorithm gets the vector between the shoulder and wrist, and uses that to create a dot further from the wrist indicating what direction the person is pointing. This project uses the CUDA image manipulation library to draw a dot based on the above algorithm. 
+This algorithm gets the vector between the shoulder and wrist, and uses that to create a dot further from the wrist indicating what direction the person is pointing. 
+
+[Imgur](https://imgur.com/sOAXUAF)
+
+This project uses the CUDA image manipulation library to draw a dot based on the above algorithm. 
 
 ## Running this project
 
